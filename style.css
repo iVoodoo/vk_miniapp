@@ -39,7 +39,7 @@ table, th, td {
 }
 .mems:hover {
     box-shadow: 0 10px 20px 0 rgba(255, 255, 255, 0.2);
-    border-radius: 60px;
+    border-radius: 60px ;
 }
 .mempict{
     border-radius: 1500px;
